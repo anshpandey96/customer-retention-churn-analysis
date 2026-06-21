@@ -1,0 +1,48 @@
+{
+  "overall_churn_rate": 0.44466666666666665,
+  "total_customers": 3000,
+  "active_customers": 1666,
+  "churned_customers": 1334,
+  "avg_lifetime_churned_months": 5.84407796101949,
+  "median_lifetime_churned_months": 4.0,
+  "avg_tenure_active_months": 15.331332533013205,
+  "approx_clv_inr": 3173.334332833583,
+  "churn_by_plan": {
+    "Basic": 0.5712166172106825,
+    "Standard": 0.3920829406220547,
+    "Premium": 0.25042301184433163
+  },
+  "churn_by_channel": {
+    "Organic": 0.4128595600676819,
+    "Paid Ads": 0.5565410199556541,
+    "Referral": 0.3420647149460709,
+    "Partner": 0.45692883895131087
+  },
+  "churn_by_usage": {
+    "<5/mo": 0.6131578947368421,
+    "5-10/mo": 0.5100965759438104,
+    "10-20/mo": 0.37333333333333335,
+    "20+/mo": 0.25622775800711745
+  },
+  "churn_by_tickets": {
+    "0 tickets": 0.4025445292620865,
+    "1 ticket": 0.5041916167664671,
+    "2 tickets": 0.5783132530120482,
+    "3+ tickets": 0.7647058823529411
+  },
+  "churn_by_payment": {
+    "Credit Card": 0.4397834912043302,
+    "Debit Card": 0.43618739903069464,
+    "Net Banking": 0.43448275862068964,
+    "UPI": 0.45340236686390534
+  },
+  "driver_impact": {
+    "plan_premium": -0.4421123256655345,
+    "avg_sessions_per_month": -0.2951514702262136,
+    "plan_standard": -0.283957359235474,
+    "channel_referral": -0.13036954799625947,
+    "channel_partner": 0.05262701534114372,
+    "support_tickets_per_month": 0.172737535666766,
+    "channel_paid_ads": 0.2900362368425063
+  }
+}
